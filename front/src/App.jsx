@@ -1,4 +1,4 @@
-import Header from "./sections/header";
+import Header from "./sections/Header";
 import Banner from "./sections/Banner";
 import Category from "./sections/Category";
 import Footer from "./sections/Footer";
